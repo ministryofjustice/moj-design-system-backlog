@@ -6,11 +6,11 @@ This is a place for the MOJ Digital & Technology (MoJDT) community to coordinate
 
 The initial focus is to catalgue all patterns that are being used in MoJDT so that we can standardise services where possible:
 
-Her Majesties Prison & Probation Service (HMPPS)
-Legal Aid Agency (LAA)
-Central Digital (including User Centred Policy Design - UCPD)
-Office of Public Guardian (OPG)
-Criminal Injury Compensation Authority (CICA)
+* Her Majesties Prison & Probation Service (HMPPS)
+* Legal Aid Agency (LAA)
+* Central Digital (including User Centred Policy Design - UCPD)
+* Office of Public Guardian (OPG)
+* Criminal Injury Compensation Authority (CICA)
 
 ---
 
