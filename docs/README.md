@@ -1,10 +1,16 @@
-# MOJ Design System Community Backlog
+# MOJ Digital & Technology Design System Community Backlog
 
 ## About this repo
 
-This is a place for the MOJ community to coordinate the cataloging development of new components and patterns for the [MOJ Design System](https://moj-design-system.herokuapp.com/).
+This is a place for the MOJ Digital & Technology (MoJDT) community to coordinate the cataloging and development of new components and patterns for the [MOJ Digital & Technology Design System](https://moj-design-system.herokuapp.com/).
 
-The initial focus is to catolouge all patterns that are being used in MOJ (HPMMS, OPG, CICA, LLA) so that we can standardise services where possile.
+The initial focus is to catalgue all patterns that are being used in MoJDT so that we can standardise services where possible:
+
+Her Majesties Prison & Probation Service (HMPPS)
+Legal Aid Agency (LAA)
+Central Digital (including User Centred Policy Design - UCPD)
+Office of Public Guardian (OPG)
+Criminal Injury Compensation Authority (CICA)
 
 ---
 
