@@ -35,6 +35,10 @@ You can contribute by discussing and proposing components and patterns.
 
 We plan to contribute patterns to the [GOVUK Design System](https://design-system.service.gov.uk) in the future.
 
+## Reference
+
+HMPPS Digital's [local design system](https://moj-pattern-library.herokuapp.com/#/) with various in use patterns and components
+
 
 
 
