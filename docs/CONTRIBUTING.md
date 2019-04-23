@@ -1,10 +1,10 @@
 # How you can contribute
 
-The [GOV.UK Design System](https://design-system.service.gov.uk) is for everyone, with a strong community sitting behind it. It brings together the latest research, design and development from across government to make sure it’s representative and relevant for its users.
+The [MoJ Design System](https://mojdt-design-system.herokuapp.com) is for everyone, with a strong community sitting behind it. It brings together the latest research, design and development from across the department to make sure it’s representative and relevant for its users.
 
 ## Discussing styles, components and patterns
 
-You can discuss the existing styles, components and patterns in the Design System, or ones being developed, by commenting on issues in the [community backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/1). Alternatively, you can email govuk-design-system-support@digital.cabinet-office.gov.uk. 
+You can discuss the existing styles, components and patterns in the Design System, or ones being developed, by commenting on issues in the [community backlog](https://github.com/ministryofjustice/mojdt-design-system-backlog/projects/1). Alternatively, you can email design-system@digital.justice.gov.uk.
 
 For example, you can:
 
@@ -15,7 +15,7 @@ For example, you can:
 
 ## Propose a new component or pattern
 
-Anyone can propose a new component or pattern for the GOV.UK Design System.
+Anyone can propose a new component or pattern for the MoJ Design System.
 
 To be successful, proposals need to show that the component or pattern being suggested would be [useful and unique](CRITERIA.md).
 
@@ -23,7 +23,7 @@ Follow 3 steps to propose a component or pattern for the Design System.
 
 ### 1. Check the community backlog
 
-Check if someone else has already suggested your idea or something similar on the [community backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/1). 
+Check if someone else has already suggested your idea or something similar on the [community backlog](https://github.com/ministryofjustice/mojdt-design-system-backlog/projects/1).
 
 If your idea is on the backlog and marked as proposed, follow the link and comment on the issue. Say you need the component or pattern and share any examples or evidence you have to support the proposal.
 
@@ -31,7 +31,7 @@ If it’s marked to-do and you would like to work on it, read [how to develop a 
 
 ### 2. Raise an issue
 
-If your idea is not on the backlog, [raise an issue using the template](https://github.com/alphagov/govuk-design-system-backlog/issues/new]. A member of the Design System team will get in touch to discuss your proposal. 
+If your idea is not on the backlog, [raise an issue using the template](https://github.com/ministryofjustice/mojdt-design-system-backlog/issues/new). A member of the Design System team will get in touch to discuss your proposal.
 
 At this stage, you just need to present your idea and evidence of the user needs. You can include screenshots or links to versions of the component or pattern in use, but avoid spending time working on a specific design or writing code.
 
@@ -45,7 +45,7 @@ At the meeting, the working group will review your proposal and decide if it is 
 
 After the meeting, the Design System team will let you know the decision and recommendations, if there are any.
 
-If the working group agrees your proposal is useful and unique, the Design System team will mark it as to-do on the [community backlog](https://github.com/alphagov/govuk-design-system-backlog/projects/1). 
+If the working group agrees your proposal is useful and unique, the Design System team will mark it as to-do on the [community backlog](https://github.com/ministryofjustice/mojdt-design-system-backlog/projects/1).
 
 At this point, you can either start to develop the component or pattern or leave it for someone else to work on.
 
@@ -67,19 +67,19 @@ If you’re happy to go ahead, the team will assign you to the issue as a contri
 
 ### Research and develop your contribution
 
-While you’re working on your contribution, the Design System team will arrange a weekly catch up to find out how you’re getting on and if you need any help. 
+While you’re working on your contribution, the Design System team will arrange a weekly catch up to find out how you’re getting on and if you need any help.
 
-Find examples of the component or pattern already in use. The best way to do this is to ask the government design community. Use the [Design Slack channel](https://ukgovernmentdigital.slack.com/messages/C062GAGLW/) and the [digital service designers mailing list](https://groups.google.com/a/digital.cabinet-office.gov.uk/forum/?hl=en-GB#!forum/digital-service-designers).
+Find examples of the component or pattern already in use. The best way to do this is to ask the government design community. Use the [MoJ Design System Slack channel](https://mojdt.slack.com/messages/CH5RUSB27) or the [Design Slack channel](https://mojdt.slack.com/messages/C579MBX50).
 
 Examples and research from government services are usually most relevant. But look at how other organisations solve the problem too.
 
-Involve people from the [government design community](https://www.gov.uk/service-manual/communities/design-community) in any work you’re doing. This makes it less likely that you’ll spend time doing work or research that’s already been done. 
+Involve people from the [government design community](https://www.gov.uk/service-manual/communities/design-community) in any work you’re doing. This makes it less likely that you’ll spend time doing work or research that’s already been done.
 
 By finding people who are working on similar solutions, you can benefit from progress they’ve made and relevant research they’ve done.
 
 Once you have collected some examples and research findings, you should start designing a specific implementation of the component or pattern to research with.
 
-Ideally you’ll research as part of an actual service, but it’s possible to test using prototypes as long as they are realistic. Work with your own team or find a team to work with through the design community. 
+Ideally you’ll research as part of an actual service, but it’s possible to test using prototypes as long as they are realistic. Work with your own team or find a team to work with through the design community.
 
 Once you have researched the component or pattern and shown it works for users, the [Design System working group](WORKING_GROUP.md) will review it.
 
@@ -87,7 +87,7 @@ Once you have researched the component or pattern and shown it works for users, 
 
 All components and patterns must meet the [contribution criteria](CRITERIA.md) before they can be published. The Design System working group will use the criteria to review your contribution.
 
-To arrange a review, tell the Design System team your contribution is ready. The team will check your work before letting the working group know it’s ready to review. 
+To arrange a review, tell the Design System team your contribution is ready. The team will check your work before letting the working group know it’s ready to review.
 
 The working group will vote if it can be published:
 

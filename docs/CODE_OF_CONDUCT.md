@@ -1,8 +1,8 @@
-# Code of conduct for `alphagov`
+# Code of conduct for `ministryofjustice`
 
-Contributors to repositories hosted in `alphagov` are expected to
+Contributors to repositories hosted in `ministryofjustice` are expected to
 follow the Contributor Covenant Code of
-Conduct, and those working within Government are also expected to follow the Civil Service Code 
+Conduct, and those working within Government are also expected to follow the Civil Service Code
 
 ## Civil Service Code
 
@@ -10,10 +10,10 @@ The [Civil Service Code](https://www.gov.uk/government/publications/civil-servic
 
 ## Contributor Covenant Code of Conduct
 
-> Note: 
-> * where the code of conduct says "project" we mean GDS, `alphagov` and all repositories hosted within it. 
-> * where the code of conduct says "maintainer" we mean `alphagov` organisation owners
-> * where the code of conduct says "leadership" we mean both `alphagov` organisation owners, line managers, and other leadership within GDS
+> Note:
+> * where the code of conduct says "project" we mean the Ministry of Jusicte, `@ministryofjustice` and all repositories hosted within it.
+> * where the code of conduct says "maintainer" we mean `@ministryofjustice` organisation owners
+> * where the code of conduct says "leadership" we mean both `@ministryofjustice` organisation owners, line managers, and other leadership within the Ministry of Justice
 
 ### Our Pledge
 
@@ -70,7 +70,7 @@ further defined and clarified by project maintainers.
 ### Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at alphagov-code-of-conduct@digital.cabinet-office.gov.uk. All
+reported by contacting the project team at design-system@digital.justice.gov.uk. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.

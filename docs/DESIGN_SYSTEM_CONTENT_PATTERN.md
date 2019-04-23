@@ -1,4 +1,4 @@
-All design patterns and components in the GOV.UK Design System should follow the below content pattern. If you’re working on a pattern or component page for the Design System, you should use this as a template. 
+All design patterns and components in the MoJ Design System should follow the below content pattern. If you’re working on a pattern or component page for the Design System, you should use this as a template.
 
 (Don’t edit, copy and paste the content into a new doc)
 
@@ -23,7 +23,7 @@ If necessary, include an additional H2 titled ‘When not to use this pattern’
 
 ## How it works
 
-Use this section to explain how the pattern works. 
+Use this section to explain how the pattern works.
 
 This should include:
 
@@ -42,18 +42,18 @@ If this section is quite long, break it into smaller sections with H3s.
 ## Research on this [component/pattern]
 [Research summary - no H3]
 
-Use this section to summarise the research that supports this component or pattern. If the component or pattern is experimental, summarise the research it’s based on.  
+Use this section to summarise the research that supports this component or pattern. If the component or pattern is experimental, summarise the research it’s based on.
 
 Describe:
 
-the research context, for example, whether it was tested in isolation, or as part of a prototype or a live service 
+the research context, for example, whether it was tested in isolation, or as part of a prototype or a live service
 types of users tested with, for example, users with disabilities, users with low digital literacy
 
-If possible, finish this section with a link to more detailed research notes. It must be documented somewhere that’s open and publicly-accessible, ideally a blog post. 
+If possible, finish this section with a link to more detailed research notes. It must be documented somewhere that’s open and publicly-accessible, ideally a blog post.
 
 ### Known issues and gaps
 
-Use this section to describe any known issues with the component or pattern, or any gaps in the research. 
+Use this section to describe any known issues with the component or pattern, or any gaps in the research.
 
 ### Services using this [component/pattern]
 
