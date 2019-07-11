@@ -1,10 +1,10 @@
 # MoJ Digital & Technology Design System Community Backlog
 
-When desiging a service you should. **Start with the [MoJ Design System](https://mojdt-design-system.herokuapp.com) test and iterate. Resist the urge to make a new thing.**
+When desiging a service you should. **Start with the [MoJ Design System](https://moj-design-system.herokuapp.com) test and iterate. Resist the urge to make a new thing.**
 
 ## About this repo
 
-This is a place for the MoJ Digital & Technology (MoJDT) community to coordinate the cataloging and development of new components and patterns for the [MoJ Digital & Technology Design System](https://mojdt-design-system.herokuapp.com/).
+This is a place for the MoJ Digital & Technology (MoJDT) community to coordinate the cataloging and development of new components and patterns for the [MoJ Digital & Technology Design System](https://moj-design-system.herokuapp.com/).
 
 The initial focus is to catalogue all patterns that are being used in MoJDT so that we can standardise services where possible:
 
