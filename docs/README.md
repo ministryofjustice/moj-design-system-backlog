@@ -33,7 +33,7 @@ You can contribute by discussing and proposing components and patterns.
 
 ## The future
 
-We plan to contribute patterns to the [MoJ Design System](https://mojdt-design-system.herokuapp.com) in the future.
+We plan to contribute patterns to the [GOV.UK Design System](https://design-system.service.gov.uk/) in the future.
 
 ## Reference
 
