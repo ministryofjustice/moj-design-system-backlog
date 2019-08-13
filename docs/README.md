@@ -8,11 +8,11 @@ This is a place for the MoJ Digital & Technology (MoJDT) community to coordinate
 
 The initial focus is to catalogue all patterns that are being used in MoJDT so that we can standardise services where possible:
 
-* Her Majesties Prison & Probation Service (HMPPS)
+* Her Majesty's Prison & Probation Service (HMPPS)
 * Legal Aid Agency (LAA)
 * Central Digital (including User Centred Policy Design - UCPD)
-* Office of Public Guardian (OPG)
-* Criminal Injury Compensation Authority (CICA)
+* Office of the Public Guardian (OPG)
+* Criminal Injuries Compensation Authority (CICA)
 
 ---
 
@@ -34,16 +34,3 @@ You can contribute by discussing and proposing components and patterns.
 ## The future
 
 We plan to contribute patterns to the [GOV.UK Design System](https://design-system.service.gov.uk/) in the future.
-
-## Reference
-
-HMPPS Digital's [local design system](https://moj-pattern-library.herokuapp.com/#/) with various in use patterns and components
-
-
-
-
-
-
-
-
-
