@@ -1,4 +1,4 @@
-# MoJ Digital & Technology Design System Community Backlog
+# MOJ Design System Community Backlog
 
 When desiging a service you should. **Start with the [MoJ Design System](https://moj-design-system.herokuapp.com) test and iterate. Resist the urge to make a new thing.**
 
