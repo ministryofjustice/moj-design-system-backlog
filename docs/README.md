@@ -12,9 +12,7 @@ If you have any questions about this backlog you can use the issue comments or u
 
 ## Contributing
 
-You can contribute by discussing and proposing components and patterns.
-
-[Read our contribution guidelines](CONTRIBUTING.md) and then [check the community backlog](https://github.com/ministryofjustice/moj-design-system-backlog/projects/1) to see what's needed.
+You can contribute by discussing and [proposing components and patterns](https://moj-design-system.herokuapp.com/community/propose-a-component-or-pattern).
 
 ## The future
 
